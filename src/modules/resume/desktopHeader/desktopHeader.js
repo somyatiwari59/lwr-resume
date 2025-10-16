@@ -39,7 +39,7 @@ export default class DesktopHeader extends LightningElement {
     }
     console.log(this.isMobile);
   }
-  get totalExperiance(){
+  get totalExperience(){
     const startDate = new Date(2019, 5, 3); // Month is 0-indexed, so 5 represents June.
     const currentDate = new Date();
     let years = currentDate.getFullYear() - startDate.getFullYear();
