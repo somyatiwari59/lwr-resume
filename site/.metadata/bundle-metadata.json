@@ -1,0 +1,149 @@
+{
+  "bundles": {
+    "lightning/iconSvgTemplatesUtilityRtl": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_19_1-alpha/s/88879b12b926afe75faa52b82f217e5df304c067/bundle_lightning_iconSvgTemplatesUtilityRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesActionRtl": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesActionRtl/v/1_19_1-alpha/s/33f7932f3ecfb186f5927828f6560950688b1824/bundle_lightning_iconSvgTemplatesActionRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesStandardRtl": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandardRtl/v/1_19_1-alpha/s/92e625b3d8ff2a8d4fd2e4f8961518503f76522c/bundle_lightning_iconSvgTemplatesStandardRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesDoctypeRtl": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_19_1-alpha/s/9c61947660d486c2cc7cf677028b0ddcbc10f544/bundle_lightning_iconSvgTemplatesDoctypeRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesCustomRtl": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustomRtl/v/1_19_1-alpha/s/e4a7db41b061540c67ba736166ac822e6d0e5483/bundle_lightning_iconSvgTemplatesCustomRtl.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesUtility": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesUtility/v/1_19_1-alpha/s/e5915bf74d7d76b5dafc1b0ca9f82a12d6e9c7da/bundle_lightning_iconSvgTemplatesUtility.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesAction": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesAction/v/1_19_1-alpha/s/cf43e392510edbb0d897e91d06d55831ba1ac8c1/bundle_lightning_iconSvgTemplatesAction.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesStandard": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesStandard/v/1_19_1-alpha/s/550af052ebc86213fe695053a40212d5d0912b9d/bundle_lightning_iconSvgTemplatesStandard.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesDoctype": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesDoctype/v/1_19_1-alpha/s/9413cd84e64a0fda80babc7327e19783fb4c166d/bundle_lightning_iconSvgTemplatesDoctype.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lightning/iconSvgTemplatesCustom": {
+      "version": "1.19.1-alpha",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lightning/iconSvgTemplatesCustom/v/1_19_1-alpha/s/310dbc9966f01719fbb4f59e53514fc03c7eca04/bundle_lightning_iconSvgTemplatesCustom.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lwc": {
+      "version": "3.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwc/v/3_0_0/s/161b99d695053a1fe56ab76b88ac3049278f464f/bundle_lwc.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "resume/main": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/resume/main/v/0_0_1/s/4466415d74e604cc5fea1bd6e3d6344a11ade29f/bundle_resume_main.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0",
+        "@lwc/synthetic-shadow/v/3_0_0",
+        "lwr/esmLoader/v/0_10_14"
+      ]
+    },
+    "@lwc/synthetic-shadow": {
+      "version": "3.0.0",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwc/synthetic-shadow/v/3_0_0/s/1674859a13ca69e54a8280dadba5260ddc479b09/bundle_@lwc_synthetic-shadow.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "lwr/esmLoader": {
+      "version": "0.10.14",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/esmLoader/v/0_10_14/s/37fb185107d1a00c67b823aac16826f5e849fcee/bundle_lwr_esmLoader.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "@lwrjs/app-service/resume/module/esm": {
+      "version": "0.10.14",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/resume/module/esm/v/0_10_14/s/e1cfeb5be960fb8a478369c077f3320b32cff048/bundle_@lwrjs_app-service_resume_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_10_14",
+        "@lwc/synthetic-shadow/v/3_0_0",
+        "lwr/profiler/v/0_10_14",
+        "lwc/v/3_0_0"
+      ]
+    },
+    "lwr/profiler": {
+      "version": "0.10.14",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/lwr/profiler/v/0_10_14/s/c5548ac7102b3287f9bb228d325d94a881f02033/bundle_lwr_profiler.js",
+      "includedModules": [],
+      "imports": []
+    },
+    "example/app": {
+      "version": "0.0.1",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/example/app/v/0_0_1/s/9f707a5dd97c5591de00045f78e4bd2752ab536a/bundle_example_app.js",
+      "includedModules": [],
+      "imports": [
+        "lwc/v/3_0_0",
+        "@lwc/synthetic-shadow/v/3_0_0"
+      ]
+    },
+    "@lwrjs/app-service/example/module/esm": {
+      "version": "0.10.14",
+      "path": "/1/bundle/esm/l/en-US/bi/0/module/mi/@lwrjs/app-service/example/module/esm/v/0_10_14/s/e1cfeb5be960fb8a478369c077f3320b32cff048/bundle_@lwrjs_app-service_example_module_esm.js",
+      "includedModules": [],
+      "imports": [
+        "lwr/esmLoader/v/0_10_14",
+        "@lwc/synthetic-shadow/v/3_0_0",
+        "lwr/profiler/v/0_10_14",
+        "lwc/v/3_0_0"
+      ]
+    }
+  }
+}
